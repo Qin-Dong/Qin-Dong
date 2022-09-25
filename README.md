@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 - 🔭 博客新地址：[www.cehui.ren](https://www.cehui.ren)
-- 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ；有时也喜欢爬山 🧗‍♂️
+- 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ，喜欢爬山 🧗‍♂️
 - 🏄 渴望自我成長和進步，擁抱變化
 - 👨‍💻 力求『昆乱不挡』与『精神强健』
-- 📫 联系我：[Email](mailto:qind@139.om), [Home Page](https://qin-dong.github.io).
+- 📫 联系我：[Email](mailto:qind@139.om), [Home Page](https://www.cehui.ren).
 
 
 ![](https://github.com/qin-dong/github-stats/blob/master/generated/overview.svg)
