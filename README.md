@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 Full-time Mobile developer, using Kotlin, Java, and Python.
+- 🔭 博客新地址：[www.cehui.ren](https://www.cehui.ren)
 - 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ；有时也喜欢爬山 🧗‍♂️
 - 🏄 渴望自我成長和進步，擁抱變化
 - 👨‍💻 力求『昆乱不挡』与『精神强健』
