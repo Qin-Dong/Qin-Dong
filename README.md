@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ，喜欢爬山 🧗‍♂️
 - 🏄 渴望自我成長和進步，擁抱變化
 - 👨‍💻 力求『昆乱不挡』与『精神强健』
-- 📫 联系我：[Email](mailto:qd.xyz@qq.om), [Home Page](http://www.cehui.ren).
+- 📫 联系我：[Email:qindong@email.cn](mailto:qindong@email.cn), [Home Page](http://www.cehui.ren).
 
 
 ![](https://github.com/qin-dong/github-stats/blob/master/generated/overview.svg)
