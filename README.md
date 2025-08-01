@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 博客新地址：[www.cehui.ren](http://www.cehui.ren)
-- 📫 联系我：[Email:qindong@zohomail.cn](qindong@zohomail.cn)
+- 📫 联系我：[qindong@zohomail.cn](mailto:qindong@zohomail.cn)
 
 
 ![](https://github.com/qin-dong/github-stats/blob/master/generated/overview.svg)
